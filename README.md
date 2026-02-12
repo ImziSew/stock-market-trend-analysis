@@ -41,3 +41,27 @@ Calculated rolling standard deviation of daily returns to assess price fluctuati
 ```bash
 pip install yfinance pandas matplotlib
 python stock_trend_analysis.py
+
+Output
+
+Sample Visualizations
+
+![AAPL Price + Moving Averages](price_moving_averages.png)
+
+![AAPL Rolling Volatility](rolling_volatility.png)
+
+Skills Demonstrated
+
+Financial Data Analysis
+
+Time Series Modeling
+
+Risk Measurement
+
+Data Visualization
+
+Technical Indicator Implementation
+
+Project Purpose
+
+This project demonstrates the practical application of Python in financial analytics and highlights the ability to transform raw financial data into meaningful investment insights.
