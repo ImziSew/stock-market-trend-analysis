@@ -42,15 +42,18 @@ Calculated rolling standard deviation of daily returns to assess price fluctuati
 pip install yfinance pandas matplotlib
 python stock_trend_analysis.py
 
-Output
+```
 
-Sample Visualizations
+
+## Output
+
+## Sample Visualizations
 
 ![AAPL Price + Moving Averages](price_moving_averages.png)
 
 ![AAPL Rolling Volatility](rolling_volatility.png)
 
-Skills Demonstrated
+## Skills Demonstrated
 
 Financial Data Analysis
 
